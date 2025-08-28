@@ -219,10 +219,6 @@ streamlit run app.py -- \
   --out <flag_overrides.csv>
 ```
 
-**9) Finalize dataset**
-
-* Apply overrides from both GUIs to produce the final consistent dataset.
-
 ---
 
 ## License
